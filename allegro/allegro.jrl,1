@@ -1,0 +1,396 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Aug 01 10:20:17 2019
+\t (00:00:04)         Host=USER-PC User=user Pid=4820 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\EX\OSCILLATOR\allegro\OSCILLATOR.brd
+\t (00:00:04) 
+   (00:00:05) Loading axlcore.cxt 
+   (00:00:05) ilinit Start.
+   (00:00:05) "C:/Users/user/AppData/Roaming/SPB_Data/pcbenv"
+\t (00:00:06) Opening existing design...
+\d (00:00:07) Design opened: C:/USERS/USER/DESKTOP/EX/OSCILLATOR/allegro/OSCILLATOR.brd
+\i (00:00:08) trapsize 1716
+\i (00:00:08) trapsize 1756
+\i (00:00:08) trapsize 2852
+\i (00:00:09) trapsize 2729
+\i (00:00:09) generaledit 
+\i (00:00:46) board outline 
+   (00:00:47) Loading floor.cxt 
+   (00:00:47) Loading fputil.cxt 
+\i (00:00:50) setwindow form.fpbdoutline
+\i (00:00:50) FORM fpbdoutline fpboclearance 2 
+\i (00:00:50) FORM fpbdoutline fpboplacerect YES 
+\i (00:00:53) FORM fpbdoutline fpboplacewdt 100 
+\i (00:00:57) FORM fpbdoutline fpboplacehgt 70 
+\i (00:00:58) FORM fpbdoutline apply  
+\i (00:00:59) fillin confirm
+\i (00:01:05) setwindow pcb
+\i (00:01:05) pick 0,0 
+\t (00:01:05) last pick:  0.000 0.000
+\i (00:01:09) setwindow form.fpbdoutline
+\i (00:01:09) FORM fpbdoutline done  
+\i (00:01:09) setwindow pcb
+\i (00:01:09) generaledit 
+\i (00:01:14) prmed 
+\i (00:01:16) setwindow form.prmedit
+\i (00:01:16) FORM prmedit design  
+\i (00:01:20) FORM prmedit size A4 
+\i (00:01:24) FORM prmedit x -50.000 
+\i (00:01:28) FORM prmedit y -50.000 
+\i (00:01:28) FORM prmedit done  
+\i (00:01:28) setwindow pcb
+\i (00:01:28) trapsize 1327
+\i (00:01:28) generaledit 
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in 32.832 19.823
+\i (00:01:33) trapsize 664
+\i (00:02:09) trapsize 1784
+\i (00:02:16) done 
+\i (00:02:16) place manual 
+\i (00:02:16) FORM plc_manual placement_list 
+\i (00:02:16) FORM plc_manual categories Components by refdes 
+\i (00:02:16) trapsize 1784
+\i (00:02:18) setwindow form.plc_manual
+\i (00:02:18) FORM plc_manual advanced_settings  
+\i (00:02:20) FORM plc_manual library YES 
+\i (00:02:21) FORM plc_manual library NO 
+\i (00:02:21) FORM plc_manual library YES 
+\i (00:02:22) FORM plc_manual placement_list  
+\i (00:02:24) FORM plc_manual categories Package symbols 
+\i (00:02:26) FORM plc_manual categories Mechanical symbols 
+\i (00:02:27) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\w (00:02:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:27) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:27) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) pick 5,5 
+\t (00:02:35) last pick:  5.000 5.000
+\i (00:02:39) setwindow form.plc_manual
+\i (00:02:39) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) pick 5,65 
+\t (00:02:46) last pick:  5.000 65.000
+\i (00:02:50) setwindow form.plc_manual
+\i (00:02:50) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) pick 95,5 
+\t (00:02:58) last pick:  95.000 5.000
+\i (00:03:01) setwindow form.plc_manual
+\i (00:03:01) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) pick 95,65 
+\t (00:03:18) last pick:  95.000 65.000
+\i (00:03:21) setwindow form.plc_manual
+\i (00:03:21) FORM plc_manual done  
+\i (00:03:21) setwindow pcb
+\i (00:03:21) generaledit 
+\i (00:03:26) done 
+\i (00:03:26) place manual 
+\i (00:03:26) FORM plc_manual placement_list 
+\i (00:03:26) FORM plc_manual categories Components by refdes 
+\i (00:03:26) setwindow form.plc_manual
+\i (00:03:26) FORM plc_manual categories Components by refdes 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) trapsize 1784
+\i (00:03:28) setwindow form.plc_manual
+\i (00:03:28) FORM plc_manual cancel  
+\i (00:03:28) setwindow pcb
+\i (00:03:28) generaledit 
+\i (00:03:29) quickplace 
+\i (00:03:31) setwindow form.quickplc
+\i (00:03:31) FORM quickplc place  
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:03:31) Component(s) could not be placed.  See logfile for errors.
+\i (00:03:34) FORM quickplc place  
+\e (00:03:34) Component(s) could not be placed.  See logfile for errors.
+\i (00:03:36) FORM quickplc place  
+\e (00:03:36) Component(s) could not be placed.  See logfile for errors.
+\i (00:03:36) FORM quickplc done  
+\i (00:03:36) setwindow pcb
+\i (00:03:36) generaledit 
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 41.024 12.604
+\i (00:03:38) trapsize 892
+\i (00:03:39) roam start
+\i (00:03:39) roam x -96
+\i (00:03:39) roam y -16
+\i (00:03:39) roam x -80
+\i (00:03:39) roam y -32
+\i (00:03:39) roam x -64
+\i (00:03:39) roam y -16
+\i (00:03:39) roam x -32
+\i (00:03:39) roam y -32
+\i (00:03:39) roam y -32
+\i (00:03:39) roam x 32
+\i (00:03:39) roam x 32
+\i (00:03:39) roam x 32
+\i (00:03:40) roam x 16
+\i (00:03:40) roam y 16
+\i (00:03:40) roam x 16
+\i (00:03:40) roam end
+\i (00:03:43) roam start
+\i (00:03:43) roam x 48
+\i (00:03:43) roam y 16
+\i (00:03:43) roam x 32
+\i (00:03:44) roam y -16
+\i (00:03:44) roam x -32
+\i (00:03:44) roam x -16
+\i (00:03:44) roam x -16
+\i (00:03:45) roam end
+\i (00:04:06) prmed 
+\i (00:04:07) setwindow form.prmedit
+\i (00:04:07) FORM prmedit text  
+\i (00:04:08) FORM prmedit text_setup_button  
+\i (00:04:09) setwindow form.textblock
+\i (00:04:09) FORM textblock compact  
+\i (00:04:11) FORM textblock add  
+\i (00:04:19) FORM textblock nextname1 width 1.500 
+\i (00:04:21) FORM textblock nextname1 height 5.000 
+\i (00:04:24) FORM textblock nextname1 photoplot_width 0.400 
+\i (00:04:24) FORM textblock done  
+\i (00:04:26) setwindow form.prmedit
+\i (00:04:26) FORM prmedit cancel  
+\i (00:04:26) setwindow pcb
+\i (00:04:26) generaledit 
+\i (00:04:28) add text 
+\t (00:04:28) Pick text location.
+\i (00:04:31) setwindow form.mini
+\i (00:04:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:04:34) FORM mini subclass SILKSCREEN_TOP 
+\i (00:04:38) FORM mini text_block 4 
+\i (00:04:40) FORM mini text_justification Center 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) pick grid 41.007 63.848
+\t (00:04:42) last pick:  40.640 63.500
+\t (00:04:42) Enter text string.
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 52.606 57.424
+\i (00:04:44) trapsize 446
+\i (00:04:58) zoom out 1 
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom out 51.892 42.613
+\i (00:04:58) trapsize 892
+\i (00:04:58) zoom out 1 
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom out 51.892 42.612
+\i (00:04:58) trapsize 1784
+\i (00:05:00) pick grid 37.438 7.964
+\t (00:05:00) last pick:  38.100 7.620
+\i (00:05:00) setwindow pcb
+\i (00:05:00) pick 40.640 63.500
+\t (00:05:00) Enter text string.
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 39.580 2.611
+\i (00:05:04) trapsize 892
+\i (00:05:19) prepopup 54.391 -23.233
+\i (00:05:20) done 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) pick 38.100 7.620
+\i (00:05:20) setwindow pcb
+\i (00:05:20) generaledit 
+\i (00:05:21) drag_start grid 37.260 8.708
+\i (00:05:21) move 
+\t (00:05:21) last pick:  38.100 7.620
+\t (00:05:21) Pick new location for the element(s).
+\i (00:05:25) drag_stop grid 55.104 4.247
+\i (00:05:25) generaledit 
+\i (00:05:26) drag_start grid 41.007 63.491
+\i (00:05:26) move 
+\t (00:05:26) last pick:  40.640 63.500
+\t (00:05:26) Pick new location for the element(s).
+\i (00:05:27) drag_stop grid 54.747 62.777
+\i (00:05:27) generaledit 
+\i (00:07:38) pick grid 65.989 48.501
+\t (00:07:38) last pick:  66.040 48.260
+\i (00:07:38) zoom in 1 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom in 71.878 47.431
+\i (00:07:38) trapsize 446
+\i (00:07:39) zoom out 1 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom out 71.878 47.074
+\i (00:07:39) trapsize 892
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in 55.461 69.201
+\i (00:07:43) trapsize 446
+\i (00:07:45) pick grid 49.840 69.468
+\t (00:07:45) last pick:  50.800 68.580
+\i (00:07:47) move 
+\t (00:07:47) last pick:  50.208 69.473
+\t (00:07:47) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:07:47) Pick new location for the element(s).
+\i (00:07:47) pick grid 33.513 54.568
+\t (00:07:47) last pick:  33.020 53.340
+\i (00:07:47) generaledit 
+\i (00:07:49) roam start
+\i (00:07:49) roam y -48
+\i (00:07:49) roam y -32
+\i (00:07:49) roam x -16
+\i (00:07:49) roam y -32
+\i (00:07:49) roam y -16
+\i (00:07:49) roam x -80
+\i (00:07:49) roam y -64
+\i (00:07:50) roam x -48
+\i (00:07:50) roam y -32
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam y -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -32
+\i (00:07:50) roam x -32
+\i (00:07:50) roam y 16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:50) roam x -16
+\i (00:07:51) roam end
+\i (00:07:52) pick grid 31.727 82.048
+\t (00:07:52) last pick:  30.480 81.280
+\i (00:07:53) pick grid 23.429 94.628
+\t (00:07:53) last pick:  22.860 93.980
+\i (00:07:54) move 
+\t (00:07:54) Select element(s) to move.
+\i (00:07:55) pick grid 29.318 83.208
+\t (00:07:55) last pick:  30.480 83.820
+\t (00:07:55) last pick:  29.964 82.198
+\t (00:07:55) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:07:55) Pick new location for the element(s).
+\i (00:07:55) pick grid 13.883 43.147
+\t (00:07:55) last pick:  12.700 43.180
+\i (00:07:57) roam start
+\i (00:07:57) roam x 16
+\i (00:07:57) roam y 48
+\i (00:07:57) roam x 48
+\i (00:07:57) roam y 48
+\i (00:07:57) roam x 16
+\i (00:07:57) roam y 16
+\i (00:07:57) roam x 16
+\i (00:07:57) roam y 32
+\i (00:07:57) roam x 16
+\i (00:07:57) roam y 32
+\i (00:07:57) roam y 32
+\i (00:07:58) roam end
+\i (00:07:58) zoom out 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom out 38.597 24.322
+\i (00:07:58) trapsize 892
+\i (00:07:59) pick grid 33.423 52.515
+\t (00:07:59) last pick:  33.020 53.340
+\t (00:07:59) last pick:  33.020 53.340
+\t (00:07:59) Moving J2 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:07:59) Pick new location for the element(s).
+\i (00:08:01) prepopup 9.868 27.175
+\i (00:08:02) rotate 
+\t (00:08:02) Spin the element(s).
+\i (00:08:04) iangle 90.000
+\t (00:08:04) last angle:  90.000 Degrees
+\i (00:08:05) pick grid 3.980 22.893
+\t (00:08:05) last pick:  5.080 22.860
+\i (00:08:05) roam start
+\i (00:08:05) roam x 80
+\i (00:08:05) roam y 32
+\i (00:08:05) roam x 32
+\i (00:08:06) roam x 32
+\i (00:08:06) roam x 48
+\i (00:08:06) roam end
+\i (00:08:07) pick grid 14.240 43.326
+\t (00:08:07) last pick:  15.240 43.180
+\t (00:08:07) last pick:  12.700 43.180
+\t (00:08:07) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:08:07) Pick new location for the element(s).
+\i (00:08:07) prepopup 72.948 36.367
+\i (00:08:10) rotate 
+\t (00:08:10) Spin the element(s).
+\i (00:08:10) iangle 90.000
+\t (00:08:10) last angle:  90.000 Degrees
+\i (00:08:12) pick grid 93.470 24.054
+\t (00:08:12) last pick:  93.980 22.860
+\i (00:08:22) roam start
+\i (00:08:22) roam x -80
+\i (00:08:22) roam end
+\i (00:08:23) pick grid 7.816 72.948
+\t (00:08:23) last pick:  7.620 73.660
+\t (00:08:23) last pick:  3.473 77.093
+\t (00:08:23) Moving U3 / LF351_DIP8_3_LF351 / DIP8_3.
+\t (00:08:23) Pick new location for the element(s).
+\i (00:08:24) pick grid -4.319 108.280
+\t (00:08:24) last pick:  -5.080 109.220
+\i (00:08:24) pick grid 18.344 72.948
+\t (00:08:24) last pick:  17.780 73.660
+\t (00:08:24) last pick:  13.836 77.093
+\t (00:08:24) Moving U4 / LF351_DIP8_3_LF351 / DIP8_3.
+\t (00:08:24) Pick new location for the element(s).
+\i (00:08:25) pick grid 23.876 115.775
+\t (00:08:25) last pick:  22.860 116.840
+\i (00:08:26) pick grid 27.623 73.483
+\t (00:08:26) last pick:  27.940 73.660
+\t (00:08:26) last pick:  34.562 77.093
+\t (00:08:26) Moving U1 / LF351_DIP8_3_LF351 / DIP8_3.
+\t (00:08:26) Pick new location for the element(s).
+\i (00:08:27) drag_start grid 46.717 113.276
+\i (00:08:27) drag_stop grid 52.070 112.920
+\i (00:08:27) pick grid 27.801 71.164
+\t (00:08:27) last pick:  27.940 71.120
+\t (00:08:27) last pick:  24.199 77.093
+\t (00:08:27) Moving U2 / LF351_DIP8_3_LF351 / DIP8_3.
+\t (00:08:27) Pick new location for the element(s).
+\i (00:08:28) pick grid -10.029 79.907
+\t (00:08:28) last pick:  -10.160 78.740
+\i (00:08:29) roam start
+\i (00:08:29) roam x 112
+\i (00:08:29) roam y 16
+\i (00:08:29) roam x 16
+\i (00:08:29) roam x 32
+\i (00:08:29) roam y 16
+\i (00:08:30) roam end
+\i (00:08:33) done 
+\i (00:08:33) place manual 
+\i (00:08:33) FORM plc_manual placement_list 
+\i (00:08:33) FORM plc_manual categories Components by refdes 
+\i (00:08:33) trapsize 892
+\i (00:08:35) setwindow form.plc_manual
+\i (00:08:35) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\e (00:08:35) Cannot load symbol 'TO-220'
+\i (00:08:35) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:08:38) FORM plc_manual tree 'MULTISEL YES' U6 'Components by refdes' 
+\i (00:08:38) FORM plc_manual tree  U6 'Components by refdes' 
+\i (00:08:38) FORM plc_manual tree 'MULTISEL NO' U5 'Components by refdes' 
+\e (00:08:38) Cannot load symbol 'TO-220'
+\i (00:08:38) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:08:39) FORM plc_manual tree 'MULTISEL NO' U6 'Components by refdes' 
+\i (00:08:39) FORM plc_manual tree  U6 'Components by refdes' 
+\i (00:08:40) FORM plc_manual tree 'MULTISEL YES' U6 'Components by refdes' 
+\e (00:08:40) Cannot load symbol 'TO-220'
+\i (00:08:41) setwindow pcb
+\i (00:08:41) pick grid 72.592 97.395
+\t (00:08:41) last pick:  73.660 96.520
+\i (00:09:07) refdes U5 
+\e (00:09:07) Cannot load symbol 'TO-220'
+\i (00:09:07) xname_flush 
+\i (00:09:25) refdes U6 
+\i (00:09:25) xname_flush 
+\i (00:09:40) setwindow form.plc_manual
+\i (00:09:40) FORM plc_manual cancel  
+\i (00:09:40) setwindow pcb
+\i (00:09:40) generaledit 
+\i (00:09:42) pick grid 89.009 112.384
+\t (00:09:42) last pick:  88.900 111.760
+\i (00:09:43) save 
+\i (00:09:44) fillin yes 
+\i (00:09:44) generaledit 
+\i (00:09:46) exit 
+\t (00:09:46)     Journal end - Thu Aug 01 10:29:59 2019

@@ -1,0 +1,26 @@
+"OSCILLATOR  Revised: Thursday, August 01, 2019"					
+"ELECTRONIC CAD, 2019.08.01          Revision: 1.0"					
+					
+					
+					
+					
+					
+					
+					
+"Bill Of Materials         August 1,2019      12:23:31"	Page1				
+					
+Item	Quantity	Reference	Part	price	sum
+______________________________________________					
+					
+1	1	C1	0.01uF	200	200
+2	1	C2	270pF	200	200
+3	4	"C3,C4,C5,C6"	0.1uF	200	800
+4	1	J1	CON2	200	200
+5	1	J2	CON3	200	200
+6	8	"R1,R3,R4,R6,R7,R8,R9,R10"	10K	200	1600
+7	1	R2	100K	200	200
+8	1	R5	62K	200	200
+9	4	"U1,U2,U3,U4"	LF351	200	800
+10	1	U5	LM7812C	200	200
+11	1	U6	LM7912C	200	200
+12	1	VR1	1M	200	200
